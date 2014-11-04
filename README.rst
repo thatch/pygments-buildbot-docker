@@ -7,15 +7,20 @@ image with multiple versions of Python preinstalled, also multiple distros with
 their available versions, bugs and all.
 
 * Arch
+
   * 2.6 from AUR
   * 2.7
   * Jython 2.7b3 on Java 8
   * 3.3 from AUR
   * 3.4
+
 * Centos
+
   * 2.7
   * 3.3 from SCL
+
 * Ubuntu
+
   * 2.7
   * 2.7 from source with --enable-unicode=ucs2
   * Jython 2.7b3 on Java 7
@@ -24,11 +29,16 @@ their available versions, bugs and all.
 (Also on the Buildbot, but not built from these)
 
 * WinXP
+
   * 2.7 (default, narrow)
   * 3.4 (default, narrow)
+
 * ARM Ubuntu
+
   * 2.7
-* PPC Debian
+
+* PPC Debian (planned, but currently non-booting)
+
   * ???
 
 Building
